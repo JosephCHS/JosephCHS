@@ -42,7 +42,7 @@ I'm Joseph, a French data scientist and Python developer. Welcome to my GitHub p
 ## Stats
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=JosephCHS&show_icons=true&hide_title=true&hide_border=true&count_private=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&langs_count=6&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JosephCHS&layout=compact&langs_count=6&theme=dark&hide_border=true)
 
 
 ## Let's Connect!
