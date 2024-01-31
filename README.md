@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Joseph Chartois, a French data scientist and Python developer. Welcome to my GitHub profile! 🚀
+I'm Joseph, a French data scientist and Python developer. Welcome to my GitHub profile! 🚀
 
 ## About Me
 
@@ -36,13 +36,12 @@ I'm Joseph Chartois, a French data scientist and Python developer. Welcome to my
 
 ## Get in Touch
 
-- 📧 Email: your.email@example.com
-- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile/)
-- 🐦 Twitter: [@YourTwitterHandle](https://twitter.com/your-twitter-handle)
+- 📧 Email: chs.jo@proton.me
+- 💼 LinkedIn: [Profile](https://www.linkedin.com/in/chs-jo/)
 
 ## Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true&hide_border=true&count_private=true&theme=dark)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=JosephCHS&show_icons=true&hide_title=true&hide_border=true&count_private=true&theme=dark)
 
 ## Let's Connect!
 
