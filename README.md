@@ -32,7 +32,7 @@ I'm Joseph, a French data enthusiast and Python developer. Welcome to my GitHub 
 
 ### Containerization
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
+![LXC](https://img.shields.io/badge/LXC-DD4814?style=for-the-badge&logo=Linux%20Containers&logoColor=white)
 
 ## Get in Touch
 
