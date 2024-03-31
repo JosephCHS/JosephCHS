@@ -1,11 +1,11 @@
 # Hi there! 👋
 
-I'm Joseph, a French data scientist and Python developer. Welcome to my GitHub profile! 🚀
+I'm Joseph, a French data enthusiast and Python developer. Welcome to my GitHub profile! 🚀
 
 ## About Me
 
 - 🇫🇷 Proudly embracing my Norman heritage while delving into the worlds of data science and Python development.
-- 👨‍💻 Data Scientist and Python enthusiast.
+- 👨‍💻 Data Explorer and Insight Innovator.
 - 🌐 Passionate about leveraging data to gain insights and solve real-world problems.
 - 💡 Enthusiastic about home labing, continuously exploring and experimenting with new technologies.
 
