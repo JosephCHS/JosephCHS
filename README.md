@@ -36,7 +36,6 @@ I'm Joseph, a French data enthusiast and Python developer. Welcome to my GitHub 
 
 ## Get in Touch
 
-- 📧 Email: chs.jo@proton.me
 - 💼 LinkedIn: [Profile](https://www.linkedin.com/in/chs-jo/)
 
 ## Stats
