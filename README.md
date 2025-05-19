@@ -1,4 +1,4 @@
-# 👋 Salut, je suis Joseph!
+# 👋 Salut !
 
 I'm a French Python developer and data enthusiast with a love for automation, self-hosting, and crafting efficient digital ecosystems. Welcome to my GitHub!
 
