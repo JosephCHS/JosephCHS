@@ -15,16 +15,15 @@
 
 ## 🎯 About Me
 
-> *"Automating the world, one Python script at a time"* 🐍
-
 <table>
 <tr>
 <td width="60%">
 
 ### 🚀 **What Drives Me**
-- 🌊 **Proud Norman** living in beautiful France
+- 🌊 **Proud Norman** raised on cliffs, cider, and Camembert... and Neufchâtel!
+- ♟️ **Chess player** with a soft spot for the Scotch Game
 - 🧠 **Problem solver** who loves turning complex data into actionable insights
-- 🏗️ **Infrastructure enthusiast** building robust, scalable home lab environments
+- 🏗️ **Infrastructure enthusiast** building scalable environments
 - 🎬 **Media connoisseur** running a full-stack entertainment ecosystem
 - 🔐 **Privacy advocate** who believes in self-hosted, secure solutions
 
@@ -48,48 +47,25 @@
 </tr>
 </table>
 
+
+
 ## 🛠️ Technology Arsenal
 
-### 🐍 **Core Programming**
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
-<img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-<!-- <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/> -->
+| **Category** | **Technologies** |
+| - | - |
+**Core Languages** | [![Python](https://img.shields.io/static/v1?label=&message=Python&color=3776AB&logo=python&logoColor=FFFFFF)](https://www.python.org/) [![SQL](https://img.shields.io/static/v1?label=&message=SQL&color=4479A1&logo=mysql&logoColor=FFFFFF)](https://www.mysql.com/) [![Bash](https://img.shields.io/static/v1?label=&message=Bash&color=4EAA25&logo=gnubash&logoColor=FFFFFF)](https://www.gnu.org/software/bash/) [![TypeScript](https://img.shields.io/static/v1?label=&message=TypeScript&color=3178C6&logo=typescript&logoColor=FFFFFF)](https://www.typescriptlang.org/) [![C++](https://img.shields.io/static/v1?label=&message=C%2B%2B&color=00599C&logo=c%2B%2B&logoColor=white)](https://isocpp.org/) [![R](https://img.shields.io/static/v1?label=&message=R&color=276DC3&logo=r&logoColor=FFFFFF)](https://www.r-project.org/)
+**Data Science & ML** | [![TensorFlow](https://img.shields.io/static/v1?label=&message=TensorFlow&color=FF6F00&logo=tensorflow&logoColor=FFFFFF)](https://tensorflow.org/) [![Pandas](https://img.shields.io/static/v1?label=&message=Pandas&color=150458&logo=pandas&logoColor=FFFFFF)](https://pandas.pydata.org/) [![NumPy](https://img.shields.io/static/v1?label=&message=NumPy&color=013243&logo=numpy&logoColor=FFFFFF)](https://numpy.org/) [![Scikit-learn](https://img.shields.io/static/v1?label=&message=Scikit-learn&color=F7931E&logo=scikitlearn&logoColor=FFFFFF)](https://scikit-learn.org/)<br>[![PyTorch](https://img.shields.io/static/v1?label=&message=PyTorch&color=EE4C2C&logo=pytorch&logoColor=FFFFFF)](https://pytorch.org/) [![Jupyter](https://img.shields.io/static/v1?label=&message=Jupyter&color=F37626&logo=jupyter&logoColor=FFFFFF)](https://jupyter.org/) [![Matplotlib](https://img.shields.io/static/v1?label=&message=Matplotlib&color=11557c&logo=python&logoColor=FFFFFF)](https://matplotlib.org/) [![Seaborn](https://img.shields.io/static/v1?label=&message=Seaborn&color=388E3C&logo=python&logoColor=FFFFFF)](https://seaborn.pydata.org/)
+**Web Development** | [![Flask](https://img.shields.io/static/v1?label=&message=Flask&color=000000&logo=flask&logoColor=FFFFFF)](https://flask.palletsprojects.com/) [![Django](https://img.shields.io/static/v1?label=&message=Django&color=092E20&logo=django&logoColor=FFFFFF)](https://www.djangoproject.com/) [![FastAPI](https://img.shields.io/static/v1?label=&message=FastAPI&color=009688&logo=fastapi&logoColor=FFFFFF)](https://fastapi.tiangolo.com/) [![SvelteKit](https://img.shields.io/static/v1?label=&message=SvelteKit&color=FF3E00&logo=svelte&logoColor=FFFFFF)](https://kit.svelte.dev/)
+**DevOps & Infrastructure** | [![Docker](https://img.shields.io/static/v1?label=&message=Docker&color=2496ED&logo=docker&logoColor=FFFFFF)](https://docker.com/) [![LXC](https://img.shields.io/static/v1?label=&message=LXC&color=DD4814&logo=linuxcontainers&logoColor=FFFFFF)](https://linuxcontainers.org/) [![Proxmox](https://img.shields.io/static/v1?label=&message=Proxmox&color=E57000&logo=proxmox&logoColor=FFFFFF)](https://www.proxmox.com/) [![Terraform](https://img.shields.io/static/v1?label=&message=Terraform&color=623CE4&logo=terraform&logoColor=FFFFFF)](https://www.terraform.io/)<br>[![OpenTofu](https://img.shields.io/static/v1?label=&message=OpenTofu&color=FFDA18&logo=opentofu&logoColor=000000)](https://opentofu.org/) [![Ansible](https://img.shields.io/static/v1?label=&message=Ansible&color=EE0000&logo=ansible&logoColor=FFFFFF)](https://www.ansible.com/) [![GitHub Actions](https://img.shields.io/static/v1?label=&message=GitHub%20Actions&color=2088FF&logo=githubactions&logoColor=FFFFFF)](https://github.com/features/actions)
+**Databases** | [![PostgreSQL](https://img.shields.io/static/v1?label=&message=PostgreSQL&color=336791&logo=postgresql&logoColor=FFFFFF)](https://www.postgresql.org/) [![SQLite](https://img.shields.io/static/v1?label=&message=SQLite&color=003B57&logo=sqlite&logoColor=FFFFFF)](https://www.sqlite.org/) [![Elasticsearch](https://img.shields.io/static/v1?label=&message=Elasticsearch&color=005571&logo=elasticsearch&logoColor=FFFFFF)](https://www.elastic.co/) [![GraphQL](https://img.shields.io/static/v1?label=&message=GraphQL&color=E10098&logo=graphql&logoColor=FFFFFF)](https://graphql.org/)
+**Cloud & Platforms** | [![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)](https://aws.amazon.com/) [![GCP](https://img.shields.io/static/v1?label=&message=Google%20Cloud&color=4285F4&logo=google-cloud&logoColor=FFFFFF)](https://cloud.google.com/) [![Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white)](https://azure.microsoft.com/)
+**Monitoring & Analytics** | [![Grafana](https://img.shields.io/static/v1?label=&message=Grafana&color=F46800&logo=grafana&logoColor=FFFFFF)](https://grafana.com/) 
+**Development Tools** | [![Git](https://img.shields.io/static/v1?label=&message=Git&color=F05032&logo=git&logoColor=FFFFFF)](https://git-scm.com/) [![VS Code](https://img.shields.io/static/v1?label=&message=VS%20Code&color=007ACC&logo=visualstudiocode&logoColor=FFFFFF)](https://code.visualstudio.com/) [![PyCharm](https://img.shields.io/static/v1?label=&message=PyCharm&color=000000&logo=pycharm&logoColor=FFFFFF)](https://www.jetbrains.com/pycharm/)<br>[![Postman](https://img.shields.io/static/v1?label=&message=Postman&color=FF6C37&logo=postman&logoColor=FFFFFF)](https://www.postman.com/)
+**Operating Systems** | [![Linux](https://img.shields.io/static/v1?label=&message=Linux&color=FCC624&logo=linux&logoColor=000000)](https://www.linux.org/) [![Ubuntu](https://img.shields.io/static/v1?label=&message=Ubuntu&color=E95420&logo=ubuntu&logoColor=FFFFFF)](https://ubuntu.com/) [![Debian](https://img.shields.io/static/v1?label=&message=Debian&color=A81D33&logo=debian&logoColor=FFFFFF)](https://www.debian.org/)
 
+See **[➡️ Personal Projects](https://github.com/JosephCHS?tab=repositories)** for implementations using these technologies
 
-</p>
-
-### 🧠 **Data Science & ML Stack**
-<p>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
-<img src="https://img.shields.io/badge/-Rasa-5A17EE?style=for-the-badge&logo=rasa&logoColor=white"/>
-</p>
-
-### 🌐 **Web Development**
-<p>
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-<img src="https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" alt="SvelteKit"/>
-<img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API"/>
-</p>
-
-### 🚀 **DevOps & Infrastructure**
-<p>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-<img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" alt="Proxmox"/>
-<img src="https://img.shields.io/badge/LXC-DD4814?style=for-the-badge&logo=Linux%20Containers&logoColor=white" alt="LXC"/>
-<img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
-<img src="https://img.shields.io/badge/OpenTofu-FFDA18?logo=opentofu&logoColor=000&style=for-the-badge" alt="OpenTofu"/>
-<img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-</p>
+----
 
 ## 🏠 Home Lab Ecosystem
 
